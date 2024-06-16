@@ -1,7 +1,6 @@
 # Akinator_style_game
 Akinator 🧞‍♂️ style game, just a casual basic exercise  in python 
-markdown
-Copy code
+
 # Marvel Movie Character Creator
 
 Welcome to the **Marvel Movie Character Creator**! This interactive script helps you determine which character from the Avengers you are most like based on your preferences and traits.
