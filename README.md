@@ -1,5 +1,8 @@
 # Akinator_style_game
 Akinator 🧞‍♂️ style game, just a casual basic exercise  in python 
+*view on Replit [Akinator](https://replit.com/@SimarjeetSing10/Akinator-style-game).*
+![image](https://github.com/SimarjeetxSingh/Akinator_style_game/assets/130891817/6ef41e29-565f-4472-b86a-71e7a31777d6)
+
 
 # Marvel Movie Character Creator
 
@@ -19,7 +22,7 @@ To run this script, you need to have Python installed on your computer. Follow t
 
 3. **Run the Script**: Open your terminal or command prompt, navigate to the directory where you saved the script, and run the following command:
    ```sh
-   python marvel_character_creator.py
+   python akinator.py
    
 ## Usage
 
@@ -56,7 +59,7 @@ Then you must be  Spider Man 🕸️🕷️
 
 AVENGERS ASSEMBLE
 ```
-##Conclusion
+## Conclusion
 This Marvel Movie Character Creator is a fun and simple way to find out which Avengers character you are most like. Feel free to modify the script to add more questions or characters, and enjoy sharing your results with friends!
 
 For any issues or contributions, please feel free to submit a pull request or open an issue on the project's repository.
