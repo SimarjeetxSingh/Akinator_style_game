@@ -1,8 +1,9 @@
 # Akinator_style_game
-Akinator 🧞‍♂️ style game, just a casual basic exercise  in python 
-*view on Replit [Akinator](https://replit.com/@SimarjeetSing10/Akinator-style-game).*
-![image](https://github.com/SimarjeetxSingh/Akinator_style_game/assets/130891817/6ef41e29-565f-4472-b86a-71e7a31777d6)
+Akinator 🧞‍♂️ style game, just a casual basic exercise  in python.
 
+
+![image](https://github.com/SimarjeetxSingh/Akinator_style_game/assets/130891817/6ef41e29-565f-4472-b86a-71e7a31777d6)
+*view on Replit [Akinator](https://replit.com/@SimarjeetSing10/Akinator-style-game).*
 
 # Marvel Movie Character Creator
 
@@ -35,6 +36,7 @@ Depending on your answers, the script will print out which Marvel character you 
 - If you like hanging around, you'll be identified as **Spider-Man**.
 
 After answering all the questions, you'll see a message encouraging you to join the Avengers.
+![image](https://github.com/SimarjeetxSingh/Akinator_style_game/assets/130891817/e4708cd6-bf08-42e3-9b65-95fb7ff6df2c)
 
 ## Example
 
@@ -62,5 +64,8 @@ AVENGERS ASSEMBLE
 ## Conclusion
 This Marvel Movie Character Creator is a fun and simple way to find out which Avengers character you are most like. Feel free to modify the script to add more questions or characters, and enjoy sharing your results with friends!
 
-For any issues or contributions, please feel free to submit a pull request or open an issue on the project's repository.
+For any issues or contributions, please feel free to submit a pull request or open an issue on the project's repository or directly reach out to me😊.
+
+![image](https://github.com/SimarjeetxSingh/Akinator_style_game/assets/130891817/74f9f064-f22a-4e31-a5d6-63e1809b0516)
+
    
